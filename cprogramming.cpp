@@ -24,7 +24,6 @@ void myFirstForloop()
 
 void anotherForLoop()
 {
-	//testing c
 	int fahr;
 	//now with a for loop.  and less variables.  we only need int fahr here!
 	printf( "for loop:\n" );
